@@ -6,4 +6,7 @@ Minimal starter configuration for Emacs.
 1. Open config.org file and "tangle" it
 1a. Instructions are included in the file itself
 
+This should work well for GNU/Linux operating systems, and also for Mac OS,
+but it has not been tested for Windows.
+
 Have some fun.
