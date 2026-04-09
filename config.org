@@ -80,7 +80,7 @@ Here I get a little opinionated, just for fun. These are a few aesthetic choices
   frame-title-format (list "🌴 %b")
 
   ;; Set Dired listing switches for more minimalist output
-  dired-listing-switches "-aghov --group-directories-first")
+  dired-listing-switches "-laghov --group-directories-first")
 
   ;; Disable the menu bar
   (menu-bar-mode -1)
